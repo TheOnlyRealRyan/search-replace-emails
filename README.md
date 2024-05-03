@@ -1,0 +1,2 @@
+1. This script will standardise formats ie "email address" to "email" but it has to be previously known standards to a new one
+2. This script can go through all the files in a folder, search for an email, and then replace it with an specified email or a random email from a list.
